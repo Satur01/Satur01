@@ -1,4 +1,4 @@
-## Hi! I'm Ronald!
+## Hi! I'm Ronald! 🖐🏻
 
 ### I am a developer but also a fan of videogames!
 
@@ -25,13 +25,15 @@
 <img align="left" alt="PhpStorm" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/phpstorm-1.svg" />
 <img align="left" alt="Github Desktop" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/github-1.svg" />
 <img align="left" alt="Figma" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" />
-<img align="left" alt="Figma" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" />
+<img align="left" alt="Adobe XD" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" />
 
 <br /> <br/>
 
 ### Some stats
 
-[![Satur's github stats](https://github-readme-stats.vercel.app/api?username=Satur01&count_private=true&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Satur01&count_private=true&show_icons=true&theme=prussian" />
+</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satur01&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
