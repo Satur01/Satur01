@@ -19,6 +19,7 @@
 <img align="left" alt="Laravel" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" />
 <img align="left" alt="Tailwindcss" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" />
 <img align="left" alt="Next.js" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" />
 <img align="left" alt="PhpStorm" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/phpstorm-1.svg" />
 <img align="left" alt="Github Desktop" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/github-1.svg" />
 <img align="left" alt="Figma" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" />
