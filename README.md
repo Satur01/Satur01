@@ -27,8 +27,11 @@
 <img align="left" alt="Figma" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" />
 <img align="left" alt="Figma" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" />
 
-<br />
-<br />
+<br /> <br/>
+
+### Github Stats
+
+[![Satur's github stats](https://github-readme-stats.vercel.app/api?username=Satur01&count_private=true&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
