@@ -29,7 +29,7 @@
 
 <br /> <br/>
 
-### Github Stats
+### Some stats
 
 [![Satur's github stats](https://github-readme-stats.vercel.app/api?username=Satur01&count_private=true&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
