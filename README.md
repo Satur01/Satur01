@@ -2,6 +2,10 @@
 
 ### I am a developer but also a fan of videogames!
 
+  - 📕 On my way to become a great game developer!
+  - 🏦 Making technologies solutions in TAE Control!
+  - 🏊‍♂️ Frontend Leader in Swim! 
+
 <br />
 
 ### Lenguages & Tools:
