@@ -2,6 +2,8 @@
 
 ### I am a developer but also a fan of videogames!
 
+<br />
+
 ### Lenguages & Tools:
 
 [<img align="left" alt="Javascript" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][webdevplaylist]
@@ -21,6 +23,10 @@
 [<img align="left" alt="Github Desktop" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/github-1.svg" />][webdevplaylist]
 [<img align="left" alt="Figma" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" />][webdevplaylist]
 [<img align="left" alt="Figma" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" />][webdevplaylist]
+
+<br />
+
+---
 
 ### Contact with me: 
 
