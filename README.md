@@ -5,6 +5,7 @@
   - 📕 On my way to become a great game developer!
   - 🏦 Making technologies solutions in TAE Control!
   - 🏊‍♂️ Frontend Leader in Swim! 
+  - 🥁 Playing drums when no coding!
 
 ### Lenguages & Tools:
 
